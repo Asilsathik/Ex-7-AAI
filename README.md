@@ -21,7 +21,7 @@ Step 5: Construct the main program to read the paragraph  and perform text summa
       - Generate and print the original text.<br>
       - Generate and print the text summary using the  Text Summarization function<br>
 ### Program:
-#### Developed By: ALdrin Lijo J E - 212222240007
+#### Developed By: Mohamed Asil M - 212222230080
 ##### Importing NLTK for Text Processing 
 ```Python
 import nltk
